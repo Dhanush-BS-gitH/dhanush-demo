@@ -1,3 +1,4 @@
 # dhanush-demo
-thisa is my first Git repository
+this is my first Git repository
+<br>
 author is dhanush
